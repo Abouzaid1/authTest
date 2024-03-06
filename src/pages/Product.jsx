@@ -1,6 +1,5 @@
 import React from 'react'
 import image from "../assets/1.png"
-// var Rating = require('react-rating');
 import Rating from 'react-rating';
 export default function Product() {
     const handleChangeRating = (e)=>{
